@@ -1,0 +1,16 @@
+{
+  "registrationData": {
+    "validUser": {
+      "email": "testuser@example.com",
+      "password": "StrongPassword123"
+    },
+    "invalidUser": {
+      "email": "invaliduser@example.com",
+      "password": "WeakPwd123"
+    }
+  },
+  "productSearchData": {
+    "validSearchQuery": "Laptop",
+    "invalidSearchQuery": "InvalidProduct123"
+  }
+}
